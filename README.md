@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [nasirahmed.fun](nasirahmed.fun)
 
-- 💬 Ask me about **react,javascript, node.js, jQuery , PHP**
+- 💬 Ask me about **react.js,javascript, node.js, jQuery , PHP**
 
 - 📫 How to reach me **ahsannasirahmed@gmail.com**
 
