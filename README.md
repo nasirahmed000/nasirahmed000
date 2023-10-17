@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nasir Ahmed</h1>
-<h3 align="center">A passionate Full Stack Web developer from Bangladesh. I Spend most of time coding outstanding projects. Love to coding. Tech enthusiastic.Undergraduate student department of Computer Science and Engineering at Green University of Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Web developer from Bangladesh. I Spend most of the time with coding outstanding projects. Love to coding. Tech enthusiastic. Graduate student from department of Computer Science and Engineering at Green University of Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirahmed000&label=Profile%20views&color=0e75b6&style=flat" alt="nasirahmed000" /> </p>
 
