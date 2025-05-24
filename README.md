@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Nasir Ahmed</h1>
-<h3 align="center">A dedicated Software Engineer from Bangladesh. I Spend most of the time with coding outstanding projects. Love to coding. Tech enthusiastic.I have graduated from the Department of Computer Science and Engineering at Green University of Bangladesh.</h3>
+<h3 align="center">A dedicated Software Engineer from Bangladesh. I Spend most of the time with coding outstanding projects. Love to coding. Tech enthusiastic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirahmed000&label=Profile%20views&color=0e75b6&style=flat" alt="nasirahmed000" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **web application**
 
-- 🌱 I’m currently learning **REST API , PHP and Python**
+- 🌱 I’m currently learning **REST APIs, GraphQL, & Python**
 
 - 👯 I’m looking to collaborate on **github**
 
 - 👨‍💻 All of my projects are available at [nasirahmed.fun](nasirahmed.fun)
 
-- 💬 Ask me about **react.js,javascript, node.js, jQuery , PHP**
+- 💬 Ask me about **react.js,next.js, Redux, TypeScript,node.js and many more **
 
 - 📫 How to reach me **ahsannasirahmed@gmail.com**
 
