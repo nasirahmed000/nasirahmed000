@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [nasirahmed.fun](nasirahmed.fun)
 
-- 💬 Ask me about **react.js,next.js,Redux, TypeScript,node.js and many more**
+- 💬 Ask me about **Javascript,react.js,next.js,Redux, TypeScript,node.js and many more**
 
 - 📫 How to reach me **ahsannasirahmed@gmail.com**
 
