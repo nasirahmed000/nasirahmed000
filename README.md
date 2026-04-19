@@ -1,60 +1,90 @@
-<h1 align="center">Hi there👋, I'm Nasir Ahmed</h1>
-<h3 align="center">A dedicated Software Engineer from Bangladesh. I Spend most of the time with coding outstanding projects. Passionate about coding and enthusiastic about technology.</h3>
+<h1 align="center">Hi 👋, I'm Nasir Ahmed</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasirahmed000&label=Profile%20views&color=0e75b6&style=flat" alt="nasirahmed000" /> </p>
+<h3 align="center">
+Full-Stack Software Engineer | MERN Stack Specialist | Building Scalable Web Applications
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasirahmed000" alt="nasirahmed000" /></a> </p>
+<p align="center">
+🚀 I design and develop high-performance, scalable web applications with real-world impact.
+</p>
 
-<p align="left"> <a href="https://twitter.com/nasirahmed000" target="blank"><img src="https://img.shields.io/twitter/follow/nasirahmed000?logo=twitter&style=for-the-badge" alt="nasirahmed000" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Web Applications & SaaS Products**
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **REST APIs, AWS, GraphQL, DevOps, etc.-∞**
+- 🔭 Currently building **scalable web applications**
+- 🌱 Learning **AWS, System Design & Microservices**
+- 💡 Strong in **JavaScript ecosystem (MERN stack)**
+- ⚡ Focused on **performance, clean architecture & scalability**
+- 🎯 Goal: Become a **top-tier Software Engineer & system designer**
 
-- 👯 I’m looking to collaborate on **GitHub open Source Projects & Saas Products**
+---
 
-- 👨‍💻 All of my projects are available at [nasirahmed.fun](nasirahmed.fun)
-
-- 💬 Ask me about **Javascript,react.js,next.js,Redux, TypeScript,node.js and many more**
-
-- 📫 How to reach me **ahsannasirahmed@gmail.com**
-<h3 align="left">Connect with me:</h3>
+### 🧠 Core Tech Stack (Focused)
 
 <p align="left">
-  <a href="https://twitter.com/nasirahmed000" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="30" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+🔹 **[Project Name 1]** – Scalable MERN App  
+→ Built REST APIs handling high traffic  
+→ Implemented authentication & role-based access  
+→ Optimized DB queries improving performance by X%
+
+🔹 **[Project Name 2]** – Full Stack SaaS Platform  
+→ Developed using Next.js + Node.js  
+→ Integrated payment & real-time features  
+→ Reduced load time by X%
+
+🔹 **[Project Name 3]** – API System / Backend  
+→ Designed clean architecture  
+→ Implemented caching & scalability strategies  
+
+👉 Explore more: **https://nasirahmed.fun**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nasirahmed000&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasirahmed000" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
   <a href="https://linkedin.com/in/nasirahmed000" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30"/>
+  </a>
+  <a href="https://twitter.com/nasirahmed000" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30"/>
   </a>
   <a href="https://fb.com/nasirahmed000000" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/nasirahmed000" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30" width="30" />
-  </a>
-  <a href="https://www.youtube.com/c/nasirahmed" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" height="30" width="30" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="30"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 📫 Contact
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasirahmed000&show_icons=true&locale=en&layout=compact" alt="nasirahmed000" /></p>
+📧 **ahsannasirahmed@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasirahmed000&show_icons=true&locale=en" alt="nasirahmed000" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasirahmed000&" alt="nasirahmed000" /></p>
+⭐ *"I don't just write code — I build systems that scale."*
